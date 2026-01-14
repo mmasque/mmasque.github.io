@@ -4,9 +4,9 @@ items:
   #   badge: "Upcoming"
     # institution: "University Name"
   - years: "2024 - 2026"
-    degree: "M.Sc. in Mathematics"
+    degree: "MSc in Mathematics"
     institution: "Utrecht University, Utrecht, the Netherlands"
   - years: "2019 - 2022"
-    degree: "B.Sc. in Computer Science"
+    degree: "BSc in Computer Science"
     institution: "Monash University, Melbourne, Australia"
 

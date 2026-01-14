@@ -7,6 +7,6 @@ items:
     title: "Notes for Sheaves in Topology"
     description: "Written for a master's course taught by Dr Remy van Dobben de Bruyn, typed together with Splinter Suidman and Ben Mason."
     link: https://mmasque.github.io/Sheaves-in-Topology-lecture-notes/main.pdf
-  - year: "2025"
-    title: "Notes for a seminar lecture on homological algebra"
-    link: https://mmasque.github.io/seminar-topos-theory/main.pdf
+  # - year: "2025"
+  #   title: "Notes for a seminar lecture on homological algebra"
+  #   link: https://mmasque.github.io/seminar-topos-theory/main.pdf

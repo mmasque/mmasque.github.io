@@ -1,6 +1,6 @@
 items:
   - year: "2025"
-    title: " Compute Persistent Laplacians of a Filtration in Rust. "
+    title: " Compute Persistent Laplacians of a Filtration in Rust"
     link: https://github.com/mmasque/persistent-laplacians
     description: "A summer project with Dr Magnus Botnan to compute spectral extensions of topological data analysis."
   - year: "2025"

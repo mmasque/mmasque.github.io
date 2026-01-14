@@ -1,0 +1,14 @@
+name: "Marcel Masqué"
+tagline: "Master's student in Mathematics · Software engineer"
+intro: >
+  Hello!
+
+  I'm a maths student at Utrecht University. I like algebraic topology. I am interested in applying mathematical and computational techniques to understand biological systems.
+
+links:
+  - kind: "github"
+    label: "GitHub"
+    href: "https://github.com/mmasque"
+  - kind: "linkedin"
+    label: "LinkedIn"
+    href: "https://www.linkedin.com/in/mmasque"

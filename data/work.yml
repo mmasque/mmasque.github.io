@@ -1,0 +1,16 @@
+items:
+  - years: "2022 - "
+    title: "Software Engineer"
+    org: "Embedded Computer Systems, Prodrive Technologies"
+    # details:
+    #   - I currently work in Embedded Computing Systems, using Rust to develop firmware for high-performance computing components.
+    #   - I have also worked on developing high performance distributed image processing pipelines at rates over 100Gb/s. This involved integrating RDMA technology with GPU processing and distributed systems such as Kubernetes.
+
+  - years: "2019 - 2022"
+    title: "Research Intern"
+    org: "Monash Biomedical Imaging, Monash University"
+    # # details:
+    # #   - Used Generalised Linear Models to infer functional connections between neurons recorded in-vivo.
+    #   - Tested predictions made by the Integrated Information Theory of consciousness.
+
+

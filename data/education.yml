@@ -1,0 +1,12 @@
+items:
+  # - years: "2025 –"
+  #   degree: "PhD in Molecular Biology"
+  #   badge: "Upcoming"
+    # institution: "University Name"
+  - years: "2024 - 2026"
+    degree: "M.Sc. in Mathematics"
+    institution: "Utrecht University, Utrecht, the Netherlands"
+  - years: "2019 - 2022"
+    degree: "B.Sc. in Computer Science"
+    institution: "Monash University, Melbourne, Australia"
+

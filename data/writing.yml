@@ -1,6 +1,10 @@
 items:
+  - year: "2026"
+    title: "Factorization homology of orbifolds"
+    description: "My master's thesis in mathematics generalises Ayala and Francis' factorization homology to the case of orbifolds."
+    link: https://mmasque.github.io/thesis.pdf
   - year: "2025"
-    title: " Compute Persistent Laplacians of a Filtration in Rust"
+    title: "Computing Persistent Laplacians of a Filtration in Rust"
     link: https://github.com/mmasque/persistent-laplacians
     description: "A summer project with Dr Magnus Botnan to compute spectral extensions of topological data analysis."
   - year: "2025"

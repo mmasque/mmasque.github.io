@@ -2,8 +2,10 @@ name: "Marcel Masqué"
 tagline: "Master's student in Mathematics · Software engineer"
 intro: >
   Hello!
-
-  I'm a maths student at Utrecht University. I like algebraic topology. I am interested in applying mathematical and computational techniques to understand biological systems.
+  In September 2026 I will start a PhD position at the [van Oudenaarden group](https://www.hubrecht.eu/research-groups/van-oudenaarden-group/) at the Hubrecht Institute in Utrecht, the Netherlands.
+  In June 2026 I graduated cum laude with a master's degree in [Mathematics](https://www.uu.nl/en/masters/mathematical-sciences) from [Utrecht University](https://www.uu.nl/en). 
+  My [master's thesis](/thesis.pdf) studied the factorization homology of orbifolds, and was written under the supervision of Dr [Gijs Heuts](https://sites.google.com/site/gijsheuts/home). 
+  I am interested in applying mathematical and computational techniques to understand biological systems.
 
 links:
   - kind: "github"
